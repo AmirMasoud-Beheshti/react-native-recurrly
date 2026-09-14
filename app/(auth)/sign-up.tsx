@@ -13,7 +13,7 @@ const SignUp = () => {
         href={"/(auth)/sign-in"}
         className="mt-4 rounded bg-primary text-white p-4"
       >
-        Create an account
+        Sign In
       </Link>
       <Link href={"/"} className="mt-4 rounded bg-primary text-white p-4">
         Back to Home
